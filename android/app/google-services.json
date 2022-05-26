@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "265100749472",
+    "project_id": "delivery-shop-dd4fd",
+    "storage_bucket": "delivery-shop-dd4fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265100749472:android:a2708d659031d38a10f7c5",
+        "android_client_info": {
+          "package_name": "com.example.delivery_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265100749472-nu8qik1a8fr82iia50v3j0lsfjfehk8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbeBFa6uSWk52JFdKscncdqw2f14nCS_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265100749472-nu8qik1a8fr82iia50v3j0lsfjfehk8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "265100749472-jt9a6qtkabb2n61pcbeep5e58vh89lf9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.deliveryShop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
